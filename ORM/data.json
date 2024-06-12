@@ -1,0 +1,37 @@
+
+{
+  "defects": [
+    {
+      "code": "D0053Е34Е3Е3Е",
+      "defect": "Br",
+      "work_name": "Screeacement",
+      "unit": "cs",
+      "count": 5
+    },
+    {
+      "code": "D002",
+      "defect": "Cracked Case",
+      "work_name": "Case Replacement",
+      "unit": "pcs",
+      "count": 10
+    }
+  ],
+  "employers": [
+    {
+      "telegram_id": 123456,
+      "last_name": "Doe",
+      "first_name": "John",
+      "middle_name": "A",
+      "sheets_sent": 10
+    },
+    {
+      "telegram_id": 654321,
+      "last_name": "Smith",
+      "first_name": "Jane",
+      "middle_name": "B",
+      "sheets_sent": 5
+    }
+  ]
+}
+
+
